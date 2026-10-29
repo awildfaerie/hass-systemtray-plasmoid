@@ -1,5 +1,8 @@
 # Home Assistant Plasmoid
 
+> [!WARNING] 
+> This is almost entirely coded by an LLM with supervision from me. It's an experiment to solve a personal want of being able to control my home assistant server from Plasma in a similar way to Android's Device Controls UI. If you use it, you do so entirely at your own risk. Review the code yourself first.
+
 A KDE Plasma system-tray widget for controlling Home Assistant entities.
 
 This repository contains a Plasma 6 system-tray applet. Its configuration
