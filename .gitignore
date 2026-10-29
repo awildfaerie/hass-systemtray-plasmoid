@@ -1,0 +1,17 @@
+# CMake build output
+/build/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/install_manifest.txt
+/Makefile
+/compile_commands.json
+
+# Qt/QML generated files
+/.qt/
+*.qmlc
+*.jsc
+
+# Qt Creator local project files
+*.user

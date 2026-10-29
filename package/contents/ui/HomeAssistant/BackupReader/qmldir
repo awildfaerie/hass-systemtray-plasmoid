@@ -1,0 +1,3 @@
+module HomeAssistant.BackupReader
+classname BackupReaderPlugin
+plugin backupreaderplugin

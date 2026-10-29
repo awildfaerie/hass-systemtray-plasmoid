@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg>
+    <group name="General">
+        <entry name="serverUrl" type="String">
+            <label>Home Assistant server URL</label>
+            <default></default>
+        </entry>
+        <entry name="accessToken" type="String">
+            <label>Home Assistant access token</label>
+            <default></default>
+        </entry>
+        <entry name="entityIds" type="String">
+            <label>Target entity IDs</label>
+            <default></default>
+        </entry>
+        <entry name="deviceOrder" type="String">
+            <label>Device tile order</label>
+            <default></default>
+        </entry>
+    </group>
+</kcfg>
